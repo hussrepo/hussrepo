@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hussein!:
+# 👋 Hi, I'm Hussein!
 ⚡ Fullstack Developer & Systems Administrator<br>🎓 BS Computer Science Graduate<br>🏫 Pursuing MS Computer Science
 
 
