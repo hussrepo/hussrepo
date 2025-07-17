@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hussein!
-⚡ Fullstack Developer & Systems Administrator<br>🎓 BS Computer Science Graduate<br>🏫 Pursuing MS Computer Science<br>💻 Checkout My Website: [alakhrass.net](https://alakhrass.net)
+⚡ Fullstack Developer & Systems Engineer<br>🎓 BS Computer Science Graduate<br>🏫 Pursuing MS Computer Science<br>💻 Checkout My Website: [alakhrass.net](https://alakhrass.net)
 
 
 ## 🌐 Socials:
