@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hussein!
-⚡ Systems Engineer & Fullstack Capable Developer<br>🎓 MS Computer Science
+⚡ Systems Engineer & Fullstack Developer
 
 
 # 💻 Tech Stack:
